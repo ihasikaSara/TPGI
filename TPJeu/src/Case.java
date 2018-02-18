@@ -1,4 +1,8 @@
-
+/**
+ * les cases de la grille sur laquelle se passe le jeu
+ * @author mac
+ *
+ */
 public class Case {
 	private boolean etat;
 

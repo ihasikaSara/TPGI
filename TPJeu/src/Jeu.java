@@ -101,10 +101,7 @@ public class Jeu {
 		 * @param args Les parametres de la ligne de commande. S'il y en a, ils seront utilises
 		 * comme nom pour les joueurs
 		 */
-		public static void main(String[] args) {
-			Jeu jeu = new Jeu(args);
-			jeu.demarre();
-		}
+		
 	}
 
 
